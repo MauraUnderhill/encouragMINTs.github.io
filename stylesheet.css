@@ -15,6 +15,13 @@ h1 {
     padding: 0px;
 }
 
+.element {
+    background-color: #0001;
+    }
+    .element:hover {
+    background-color: rgb(241, 176, 176);
+    }
+    
 a:hover {
     color: #ffa38c;
 }
