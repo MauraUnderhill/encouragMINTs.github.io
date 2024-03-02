@@ -6,6 +6,9 @@ h1 {
     height: 40px;
 }
 
+h2 {
+    font-family: "Lucida Handwriting", cursive, sans-serif;
+}
 
 .intro{
     text-align: center;
@@ -31,7 +34,8 @@ h1 {
     border-radius: 3px;
 }
 
-#id {
+#Title {
+    font-family: "Comic Sans MS", cursive, sans-serif;
     padding: 0px;
 }
 
