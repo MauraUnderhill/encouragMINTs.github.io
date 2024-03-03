@@ -1,6 +1,11 @@
 body {
    background-color: rgb(179, 211, 239);
 }
+
+img{
+    width: 500px;
+    height: auto
+}
 h1 {
     text-align: center;
     height: 40px;
